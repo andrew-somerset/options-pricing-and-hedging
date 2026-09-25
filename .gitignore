@@ -1,0 +1,17 @@
+# Python / tooling
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Market data: fetched for personal use, not redistributed
+data/**
+!data/raw/
+!data/raw/.gitkeep
+
+# Credentials
+.env
+kaggle.json
+access_token
