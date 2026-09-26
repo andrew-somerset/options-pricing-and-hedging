@@ -8,6 +8,7 @@ dependencies = [
     "numpy>=2.5.3",
     "pandas>=3.0.6",
     "scipy>=1.18.1",
+    "tabulate>=0.10.0",
     "yfinance>=1.7.0",
 ]
 
